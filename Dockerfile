@@ -1,0 +1,3 @@
+FROM n8nio/n8n:latest
+EXPOSE 10000
+ENV N8N_PORT=10000
